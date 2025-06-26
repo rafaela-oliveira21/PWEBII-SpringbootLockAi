@@ -1,0 +1,7 @@
+GET     -   http://localhost:8080/api/planos
+GET     -   http://localhost:8080/api/planos/{id}
+POST    -   http://localhost:8080/api/planos
+
+GET     -   http://localhost:8080/api/propostas
+GET     -   http://localhost:8080/api/propostas/{id}
+POST    -   http://localhost:8080/api/propostas
